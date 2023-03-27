@@ -34,7 +34,7 @@ int main()
         }
         else
         {
-            cout << "Do widzenia\n";
+            cout << "Do widzenia!\n";
         }
     }
 
