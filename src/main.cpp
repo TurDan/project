@@ -15,7 +15,7 @@ int main()
         int userInput[SIZE] = {};
         int winningNumbers[SIZE] = {};
 
-        cout << "Wprowadz 6 liczb, by zagrac w Duzego Lotka!, wpisz dowolną literę lub 0 - aby zakończyć" << endl;
+        cout << "Wprowadz szesc liczb, by zagrac w Duzego Lotka!, wpisz dowolną literę lub 0 - aby zakończyć" << endl;
         
         // czytanie danych
         game = getUserInput(userInput);
@@ -34,7 +34,7 @@ int main()
         }
         else
         {
-            cout << "Do widzenia\n";
+            cout << "Do widzenia!\n";
         }
     }
 
